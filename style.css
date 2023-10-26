@@ -71,7 +71,7 @@ main {
 
 h2 {
     border-right-style: solid;
-    border-right-color: #299169;
+    border-right-color: #000000;
     display: flex;
     flex-wrap: wrap;
     float: left;
