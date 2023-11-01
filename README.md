@@ -10,8 +10,8 @@
   clone repo
 
 ## Usage
-
-  ()
+Image
+  (https://github.com/coleparrish9/Challenge-2/blob/main/images/2023-10-31%20(3).png)
 
 ## Contributions
 
